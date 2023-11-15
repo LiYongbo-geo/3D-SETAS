@@ -4,7 +4,7 @@ C                        spoly.f setas8out.f
 
       programme eats3ds
 c-----------------------------------------------
-c     3D space-time version of the ETAS model
+c     3D space-time version of the SETAS model
 c     with parallel computing
 c     Spherical version
 c------------------------------------------------

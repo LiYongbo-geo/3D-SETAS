@@ -1,2 +1,2 @@
 # 3D-SETAS
-the materials of 3D-SETAS model
+The materials of the 3D-SETAS model
